@@ -14,7 +14,7 @@ Aqui você encontrará alguns dos meus projetos e estudos nessa área. Sinta-se 
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repositories-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="www.linkedin.com/in/estergalati">
+    <a href="https://www.linkedin.com/in/estergalati">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
