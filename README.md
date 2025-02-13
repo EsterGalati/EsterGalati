@@ -18,7 +18,7 @@ Aqui você encontrará alguns dos meus projetos e estudos nessa área. Sinta-se 
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-ester_Galati-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-ester_Galati-blue?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>  
      <a href="">
