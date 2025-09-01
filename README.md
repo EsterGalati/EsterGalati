@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Ester Galati, tenho 23 anos e atualmente curso Ciência da Computação na Universidade Católica de Brasília. Tenho experiência em análise de dados, trabalhando com Python, Qlik Sense e Power BI para transformar dados em insights valiosos.Sou apaixonada por Business Intelligence, visualização de dados e automação de processos, sempre buscando novas formas de otimizar análises e tomadas de decisão. Além disso, gosto de explorar novas tecnologias e desenvolver soluções eficientes para problemas do mundo real.
+Me chamo Ester Galati, tenho 24 anos e atualmente curso Ciência da Computação na Universidade Católica de Brasília. Tenho experiência em análise de dados, trabalhando com Python, Qlik Sense e Power BI para transformar dados em insights valiosos.Sou apaixonada por Business Intelligence, visualização de dados e automação de processos, sempre buscando novas formas de otimizar análises e tomadas de decisão. Além disso, gosto de explorar novas tecnologias e desenvolver soluções eficientes para problemas do mundo real.
 Aqui você encontrará alguns dos meus projetos e estudos nessa área. Sinta-se à vontade para explorar e trocar ideias!🚀
 
 
